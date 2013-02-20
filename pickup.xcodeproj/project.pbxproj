@@ -482,6 +482,7 @@
 				06D827B816D4CD5E005A50ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06D827B916D4CD5E005A50ED /* Build configuration list for PBXNativeTarget "pickupTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +491,7 @@
 				06D827BB16D4CD5E005A50ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
